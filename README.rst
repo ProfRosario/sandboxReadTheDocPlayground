@@ -1,5 +1,6 @@
 Template for the Read the Docs tutorial
 =======================================
+This readme file contains tutorial information and link.
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
